@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: "square inside";
+}
+
+header > img {
+  width: 100px;
+}
+
+ul > li > a {
+  text-decoration: none;
+}
+
+* {
+  background-color: aliceblue;
+  line-height: 1.5;
+}
