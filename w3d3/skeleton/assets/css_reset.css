@@ -1,0 +1,19 @@
+
+html, body, header, nav, aside, h1, h2, section, article, figure, figcaption, ul, li, a, ol, ol > li:nth-of-type(2n), p, form, label, input, option, select, textarea, img, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  background: transparent;
+  background-color: white;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: inherit;
+}
